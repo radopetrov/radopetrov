@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python Fundameltals**
 
-- 👨‍💻 All of my projects are available at [https://github.com/radopetrov?tab=repositories](https://github.com/radopetrov?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/radopetrov?tab=repositories)
 
 - 📫 How to reach me **radoslav.petrow30@gmail.com**
 
